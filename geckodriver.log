@@ -1,0 +1,49 @@
+1645186528686	geckodriver	INFO	Listening on 127.0.0.1:58429
+1645186529185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35849" "-no-remote" "-profile" "/tmp/rust_mozprofileX0odoV"
+1645186531693	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX0odoV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35849/devtools/browser/d485a0ff-8cb6-4058-af2c-b336b6a6bc84
+1645186538803	Marionette	INFO	Listening on port 44611
+1645186538943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1645186545224	Marionette	INFO	Stopped listening on port 44611
+1645186758648	geckodriver	INFO	Listening on 127.0.0.1:55165
+1645186759159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56627" "-no-remote" "-profile" "/tmp/rust_mozprofileHrc7Jr"
+1645186760395	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHrc7Jr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56627/devtools/browser/2215188e-6709-4ba9-851a-80c805a18b9f
+1645186768661	Marionette	INFO	Listening on port 38335
+1645186769240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1645186777608	Marionette	INFO	Stopped listening on port 38335
+1645186987715	geckodriver	INFO	Listening on 127.0.0.1:51645
+1645186988222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42607" "-no-remote" "-profile" "/tmp/rust_mozprofile58CmyH"
+1645186989478	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile58CmyH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42607/devtools/browser/36305086-12aa-4c75-8e83-490c4107e456
+1645186994185	Marionette	INFO	Listening on port 39339
+1645186994326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1645187607714	geckodriver	INFO	Listening on 127.0.0.1:52197
+1645187608225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41131" "-no-remote" "-profile" "/tmp/rust_mozprofileh0VAXf"
+1645187609808	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh0VAXf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41131/devtools/browser/23f79370-00b4-4132-9f26-78286e3a0f49
+1645187615091	Marionette	INFO	Listening on port 42549
+1645187615176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1645187663446	geckodriver	INFO	Listening on 127.0.0.1:46625
+1645187663951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49933" "-no-remote" "-profile" "/tmp/rust_mozprofilea3FRtr"
+1645187665381	Marionette	INFO	Marionette enabled
+Exiting due to channel error.
+Exiting due to channel error.
